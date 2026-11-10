@@ -1,4 +1,4 @@
-# claude-app-sync
+# claude-desktop-session-sync
 
 Makes your Claude Code CLI conversations show up in the Code tab of the Claude desktop app, in every account and organization you use there.
 
@@ -41,3 +41,7 @@ The tests run the script against temporary directories, set through `CLAUDE_APP_
 ## Caveat
 
 The app's registry is an internal, undocumented format and may change between app versions. Run `--dry-run` first after an app update.
+
+## License
+
+MIT
